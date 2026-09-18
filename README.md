@@ -41,7 +41,7 @@ The proposed solution will help Beejan Technologies:
 
 ## Project Guide
 
-This repository contains the conceptual design in .pdf file for the proposed Beejan Technologies data engineering solution.
+This repository contains the conceptual design in .pdf file for the proposed Beejan Technologies data engineering solution. Please go through the .pdf file to see more details about this project.
 
 
 ## Project Type
